@@ -8,7 +8,7 @@ This setup enables users to analyze and better understand the performance and ex
 Figure below depicts the user interactive interface layout of the demonstrator application.
 
 <p align="center">
-<img src="https://drive.google.com/uc?export=view&id=https://drive.google.com/file/d/1Ba40SZg9f7KgfrTDIpeUmtThDgywrZOf">
+<img src="https://drive.google.com/uc?export=view&id=1Ba40SZg9f7KgfrTDIpeUmtThDgywrZOf">
 </table>
 
 <table>
