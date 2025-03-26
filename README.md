@@ -5,3 +5,11 @@ Users can select key parameters such as probe-gallery pairs, face compression an
 
 This setup enables users to analyze and better understand the performance and explainability of face verification processes. The demonstrator application is publicly available [here](https://xaiface-demo.streamlit.app/).
 
+Figure below depicts the user interactive interface layout of the demonstrator application.
+
+<p align="center">
+<img src="https://drive.google.com/uc?export=view&id=https://drive.google.com/file/d/1Ba40SZg9f7KgfrTDIpeUmtThDgywrZOf">
+</table>
+
+<table>
+
